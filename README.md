@@ -22,7 +22,6 @@ This project implements a parallel image processing pipeline using Python to app
 The following metrics were used to analyze scalability:
 - **Speedup**: $T_1 / T_n$ (Ideal is $n$)
 - **Efficiency**: $(Speedup / n) \times 100$
-- **Throughput**: Measured in images per second to evaluate real-time processing capability.
 
 ## How to Run
 1. **Clone the Repository**: git clone <repo-link>
